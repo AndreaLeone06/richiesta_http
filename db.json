@@ -1,0 +1,24 @@
+{
+  "booking": [
+    {
+      "id": 0,
+      "Nome": "Andrea",
+      "Cognome": "Leone",
+      "Indirizzo": "boh",
+      "Telefono": "55555555",
+      "Email": "ciao@gmail.com",
+      "DataPrenotazione": "Post 1",
+      "OraPrenotazione": "Post 1",
+    },
+    {
+      "id": 1,
+      "Nome": "Gino",
+      "Cognome": "Pipo",
+      "Indirizzo": "bno",
+      "Telefono": "666666666",
+      "Email": "we@gmail.com",
+      "DataPrenotazione": "Post 2",
+      "OraPrenotazione": "Post 2",
+    }
+  ]
+}
