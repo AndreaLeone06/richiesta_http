@@ -8,7 +8,7 @@
       "Telefono": "55555555",
       "Email": "ciao@gmail.com",
       "DataPrenotazione": "Post 1",
-      "OraPrenotazione": "Post 1",
+      "OraPrenotazione": "Post 1"
     },
     {
       "id": 1,
@@ -18,7 +18,7 @@
       "Telefono": "666666666",
       "Email": "we@gmail.com",
       "DataPrenotazione": "Post 2",
-      "OraPrenotazione": "Post 2",
+      "OraPrenotazione": "Post 2"
     }
   ]
 }
